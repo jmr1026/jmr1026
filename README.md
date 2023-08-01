@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jacqueline (Jackie for short)
+- 👀 I’m currently interested in how to get my dog to stay off the couch
+- 🌱 I’m currently learning Python
